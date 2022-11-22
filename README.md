@@ -1,6 +1,3 @@
-# Oscillation_och_partikelsystem_C-_P1
-
-
 # Oscillation and particle systems C# Project1
 
 ## 3D environment (5p): Create a simple simulated "outdoor environment" in Unity, e.g. including the “terrain” tool 
